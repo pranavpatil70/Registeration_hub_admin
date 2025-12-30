@@ -178,14 +178,5 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-## 📧 Support
-
-For support, email support@yourdomain.com or open an issue in the GitHub repository.
-
-## 🙏 Acknowledgments
-
-- Icons by [Lucide](https://lucide.dev/)
-- UI inspiration from modern admin dashboards
-- Built with ❤️ by [Your Name/Team]
 
 ---
